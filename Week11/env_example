@@ -1,0 +1,10 @@
+MODEL="gpt-4o-mini"
+
+# in case using opensource models otherwise ignore
+GROQ_API_KEY=""
+HUGGINGFACE_API_KEY = ""
+
+# add your openai keys here
+OPENAI_API_KEY =  ""
+OPENAI_API_BASE = ""
+
