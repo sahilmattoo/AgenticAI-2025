@@ -1,0 +1,28 @@
+{
+  "article": {
+    "id": "Article-1",
+    "title": "General Provisions",
+    "clauses": [
+      {
+        "id": "Clause-1.1",
+        "text": "This clause describes the scope of the article.",
+        "subclauses": [
+          {
+            "id": "Subclause-1.1.a",
+            "text": "This subclause provides additional details."
+          },
+          {
+            "id": "Subclause-1.1.b",
+            "text": "This subclause provides exceptions."
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+{
+  "Explain abc Clause": "This clause provides additional details and exceptions related to the general provisions.",
+  "Question2 - Why is abc clause vs bcd clause important?": "Understanding the differences between these clauses is crucial for interpreting the contract accurately."
+}

@@ -1,0 +1,3 @@
+{"input": "AgentA: Hi, can you summarize the ticket?\nAgentB:", "target": "Ticket 123: User cannot login due to expired session; steps: reset session token."}
+{"input": "AgentA: Please prioritize the database migration this week.\nAgentB:", "target": "Acknowledged — I'll prioritize migration and block Friday for it."}
+{"input": "AgentA: Did you deploy the patch?\nAgentB:", "target": "Patch deployed to staging; monitoring for 30 minutes."}
