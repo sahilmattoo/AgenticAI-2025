@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2026-02-07T00:19:23.544962",
+    "feedback": "make it short",
+    "policy_before": {
+      "verbosity": "medium",
+      "tone": "neutral",
+      "structure": "narrative"
+    },
+    "policy_after": {
+      "verbosity": "short",
+      "tone": "neutral",
+      "structure": "narrative"
+    },
+    "applied_delta": {
+      "verbosity": "short"
+    }
+  }
+]
