@@ -62,5 +62,37 @@
         "TECHNICAL"
       ]
     }
+  },
+  {
+    "timestamp": "2026-02-08T13:46:02.927631",
+    "policy_version": "v3",
+    "feedback": "In correct it impacts Product not the billing",
+    "policy_before": {
+      "routing_priority": [
+        "BILLING",
+        "PRODUCT",
+        "TECHNICAL"
+      ],
+      "ambiguity_handling": "infer_best",
+      "confidence_threshold": 0.8,
+      "feedback_weight": "medium"
+    },
+    "policy_after": {
+      "routing_priority": [
+        "PRODUCT",
+        "BILLING",
+        "TECHNICAL"
+      ],
+      "ambiguity_handling": "infer_best",
+      "confidence_threshold": 0.8,
+      "feedback_weight": "medium"
+    },
+    "applied_delta": {
+      "routing_priority": [
+        "PRODUCT",
+        "BILLING",
+        "TECHNICAL"
+      ]
+    }
   }
 ]
