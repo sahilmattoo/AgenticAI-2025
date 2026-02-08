@@ -15,5 +15,23 @@
     "applied_delta": {
       "verbosity": "short"
     }
+  },
+  {
+    "timestamp": "2026-02-07T22:42:47.064007",
+    "feedback": "Too Short, make it friendly",
+    "policy_before": {
+      "verbosity": "short",
+      "tone": "neutral",
+      "structure": "narrative"
+    },
+    "policy_after": {
+      "verbosity": "medium",
+      "tone": "casual",
+      "structure": "narrative"
+    },
+    "applied_delta": {
+      "verbosity": "medium",
+      "tone": "casual"
+    }
   }
 ]

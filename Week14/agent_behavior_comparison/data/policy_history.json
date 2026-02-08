@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "2026-02-07T20:33:25.991419",
+    "policy_version": "v1",
+    "feedback": "In correct, this is related to Product",
+    "policy_before": {
+      "routing_priority": [
+        "BILLING",
+        "TECHNICAL",
+        "PRODUCT"
+      ],
+      "ambiguity_handling": "infer_best",
+      "confidence_threshold": 0.8,
+      "feedback_weight": "medium"
+    },
+    "policy_after": {
+      "routing_priority": [
+        "PRODUCT",
+        "BILLING",
+        "TECHNICAL"
+      ],
+      "ambiguity_handling": "infer_best",
+      "confidence_threshold": 0.8,
+      "feedback_weight": "medium"
+    },
+    "applied_delta": {
+      "routing_priority": [
+        "PRODUCT",
+        "BILLING",
+        "TECHNICAL"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-02-07T21:26:16.745062",
+    "policy_version": "v2",
+    "feedback": "yes the issue is Billing and not product",
+    "policy_before": {
+      "routing_priority": [
+        "PRODUCT",
+        "BILLING",
+        "TECHNICAL"
+      ],
+      "ambiguity_handling": "infer_best",
+      "confidence_threshold": 0.8,
+      "feedback_weight": "medium"
+    },
+    "policy_after": {
+      "routing_priority": [
+        "BILLING",
+        "PRODUCT",
+        "TECHNICAL"
+      ],
+      "ambiguity_handling": "infer_best",
+      "confidence_threshold": 0.8,
+      "feedback_weight": "medium"
+    },
+    "applied_delta": {
+      "routing_priority": [
+        "BILLING",
+        "PRODUCT",
+        "TECHNICAL"
+      ]
+    }
+  }
+]
