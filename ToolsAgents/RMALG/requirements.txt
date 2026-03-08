@@ -1,0 +1,10 @@
+# Core LLM & agent framework
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# DeepEval for agent-level evaluations
+deepeval>=1.4.0

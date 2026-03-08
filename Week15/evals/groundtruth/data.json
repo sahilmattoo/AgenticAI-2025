@@ -1,0 +1,54 @@
+{
+  "dataset": [
+    {
+      "question": "What happens to the salaries of AirAsia pilots with more than 5,000 flying hours after the merger?",
+      "answer": "AirAsia pilots with more than 5,000 flying hours will continue to receive compensation equivalent to their existing AirAsia Cost-to-Company (CTC).",
+      "context": "AirAsia Pilots with more than five thousand (5,000) flying hours at the time of transition shall continue to receive compensation equivalent to their existing AirAsia Cost-to-Company (CTC)."
+    },
+    {
+      "question": "How will salaries be handled for AirAsia pilots with less than 5,000 flying hours?",
+      "answer": "They will be transitioned to Vistara’s pilot salary framework with an upper salary ceiling as defined by Vistara’s internal compensation policy.",
+      "context": "AirAsia Pilots with less than five thousand (5,000) flying hours shall be transitioned to Vistara’s pilot salary framework, subject to an upper salary ceiling as defined by Vistara’s internal compensation policy."
+    },
+    {
+      "question": "What salary structure will AirAsia cabin crew follow after the merger?",
+      "answer": "AirAsia cabin crew will adopt Vistara’s existing salary structure for comparable roles.",
+      "context": "AirAsia Cabin Crew transitioning pursuant to the merger shall adopt Vistara’s existing salary structure applicable to comparable roles."
+    },
+    {
+      "question": "Will AirAsia cabin crew receive Vistara-specific HR benefits automatically after the merger?",
+      "answer": "No, Vistara-specific HR benefits will not apply unless expressly approved in writing.",
+      "context": "Vistara-specific HR benefits, including annual leave entitlements and yearly off policies, shall not apply to AirAsia Cabin Crew unless expressly approved in writing."
+    },
+    {
+      "question": "Will Vistara continue AirAsia’s existing food, catering, and in-flight service vendors?",
+      "answer": "No, vendors engaged by AirAsia for food, catering, and in-flight services will not be continued post-merger.",
+      "context": "Vendors engaged by AirAsia for food, catering, and in-flight services shall not be continued post-merger."
+    },
+    {
+      "question": "Will Vistara assume liability for outstanding vendor payments made by AirAsia before the merger?",
+      "answer": "No, Vistara will not assume liability for outstanding payments, dues, or claims related to such vendor arrangements.",
+      "context": "Vistara shall not assume any liability for outstanding payments, dues, or claims arising from such vendor arrangements entered into by AirAsia prior to the merger effective date."
+    },
+    {
+      "question": "Who will be responsible for airport-related outstanding dues from AirAsia operations after the merger?",
+      "answer": "Vistara will assume the outstanding airport-related dues after reconciliation with airport authorities.",
+      "context": "All airport-related outstanding dues and overdues attributable to AirAsia operations shall be carried forward and assumed by Vistara post-merger, subject to reconciliation with airport authorities."
+    },
+    {
+      "question": "What will happen to airport desks previously operated by AirAsia after the merger?",
+      "answer": "AirAsia airport desks will be surrendered while aircraft parking slots will be retained by Vistara.",
+      "context": "Post-merger, airport desks operated by AirAsia shall be surrendered, while aircraft parking slots shall be retained by Vistara."
+    },
+    {
+      "question": "Will AirAsia ground staff involved in boarding and check-in be transitioned to Vistara?",
+      "answer": "No, ground staff involved in boarding and check-in operations will not be hired or transitioned.",
+      "context": "Ground Staff involved in boarding and check-in operations shall not be hired or transitioned as part of the merger."
+    },
+    {
+      "question": "How will the Board of Directors be structured after the merger?",
+      "answer": "The board will follow a 3:7 voting ratio with seven seats for the parent company and three seats for AirAsia nominees.",
+      "context": "The Board of Directors shall be restructured to reflect a 3:7 voting ratio, wherein seven (7) board seats shall be reserved for the Parent Company and three (3) board seats shall be offered to AirAsia nominees."
+    }
+  ]
+}
