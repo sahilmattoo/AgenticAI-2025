@@ -1,4 +1,0 @@
-fastapi
-uvicorn
-pydantic
-gradio==4.44.0
