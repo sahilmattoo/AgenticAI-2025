@@ -1,0 +1,1 @@
+Teaching deck notes for embedding evolution from BOW to Word2Vec.

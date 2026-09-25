@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "file-organizer": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}/server.py"
+      ]
+    }
+  }
+}
