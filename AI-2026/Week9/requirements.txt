@@ -1,0 +1,11 @@
+
+# for langchain version >= 1.0.0 use this
+# python-dotenv>=1.0.0
+# langchain-openai>=1.1.0
+# langchain-core>=1.1.0
+
+# for langchain version 0 use this
+langchain==0.3.27
+langchain-openai==0.3.33
+langchain-community==0.3.24
+python-dotenv>=1.0.0
